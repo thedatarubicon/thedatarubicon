@@ -1,9 +1,11 @@
-### Hi there 👋
+- 👋 Hi, I'm @thedatarubicon!
+- 🔭 I'm currently working on data analytics, data engineering, data science, and software engineering projects.
+- 🌱 I'm currently learning more about application development, document generation, and AI/ML.
+- 👯 I'm looking to collaborate on open-source projects.
+- :books: I'm currently reading *The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling (Third Edition)*.
 
 <!--
 **thedatarubicon/thedatarubicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
